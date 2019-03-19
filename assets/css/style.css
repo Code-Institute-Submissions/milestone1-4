@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+/*-----------------------------------------Colours */
+
+.ui-menu-color-home {
+    background-color: #9EC3ED;
+}
+
+.ui-menu-color-golf {
+    background-color: #384D16;
+}
+
+.ui-menu-color-media {
+    background-color: #CCC8BC;
+}
+
+.ui-menu-color-contact {
+    background-color: #141D35;
+}
+
+
+/*-----------------------------------------Heading */
+
+header{
+    margin: 0;
+}
+
+
+.logo {
+    background: url("../images/logo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 150px;
+    transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    -webkit-transition: all 1s ease-in-out;
+
+}
+
+.header-column{
+    background-color: #FFF;
+}
+
+.modal-text{
+    text-align: center;
+    font-family: "Exo", sans-serif;
+    font-weight: 500;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
+
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+}
+
+
+.menucontainer {
+    font-size: 0;
+}
+
+.row-nav{
+    height: 200px;
+}
+
+#nav {
+    margin: 0;
+}
+
+#nav li {
+    font-size: 14px;
+    padding: 0;
+}
+
+.menuitem {
+    height: 120px;
+    text-align: center;
+    padding: 0;
+}
+
+.menuitem a {
+    width: 100%;
+    text-decoration: none;
+    color: #fff;
+    height: 120px;
+}
+
+.menuitem a i {
+    padding-top: 25px;
+    display: block;
+    color: #fafafa;
+    font-size: 36px;
+}
+
+.menuitem span {
+    display: block;
+    width: 100%;
+    padding-top: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+
+
+
+/*-----------------------------------------Special Paddings/Margins-text*/
+
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
