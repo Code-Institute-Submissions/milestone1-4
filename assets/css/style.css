@@ -17,7 +17,7 @@
 }
 
 .bg-color-history{
-    background-color:#9EC3ED;
+    background-color:#f4f4f4;
 }
 /*-----------------------------------------Heading */
 header{
@@ -49,6 +49,7 @@ header{
     width: 100%;
     display: contents;
 }
+
 #nav li {
     padding: 0;
     border-radius: 20px;
@@ -99,6 +100,10 @@ header{
     letter-spacing: 2px;
 }
 
+.list-group-item{
+    font-size:8px;
+}
+
 .roda-image img{
     display: block;
     margin-left: auto;
@@ -124,6 +129,62 @@ header{
     margin-top: 5px;
     margin-bottom: 5px;
     border-radius: 2px;
+}
+
+
+/*-----------------------------------------Footer */
+
+footer {
+    background-color:  #CCC8BC;
+    margin: 0;
+    border-radius:20px;
+}
+
+
+.footer-info{
+    display: block;
+    width: 100%;
+    padding-top: 12px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+.footer-social{
+    display: block;
+    width: 100%;
+    padding-top: 12px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+.social-links {
+    padding-bottom: 15px;
+}
+
+.social-links li a i {
+    width: 50px;
+    height: 50px;
+    padding: 12px;
+    border-radius: 50%;
+    font-size: 20px;
+    line-height: 7px;
+    text-align: center;
+    color: #141D35;
+    background: #9EC3ED;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: #FFFFFF;
 }
 
 
