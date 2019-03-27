@@ -13,6 +13,7 @@
 .ui-menu-color-contact {
     background-color: #141D35;
 }
+.bg-color-contact,
 .bg-color-news{
    background-color:  #CCC8BC;
 }
@@ -189,6 +190,7 @@ header{
     border-radius: 0px 0px 20px 20px;
 }
 
+.contact-column,
 .results-section{
     display: block;
     width: 100%;
@@ -200,6 +202,22 @@ header{
     font-weight: 300;
     letter-spacing: 2px;
     border-radius: 20px;
+}
+
+/*-----------------------------------------Contact form */
+
+.center-form{
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+    
+}
+
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #fafafa;
+    background-color: #141D35;
 }
 
 /*-----------------------------------------Footer */
