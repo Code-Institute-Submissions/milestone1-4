@@ -17,6 +17,7 @@
 .bg-color-news{
    background-color:  #CCC8BC;
 }
+.bg-color-video-section,
 .bg-color-results,
 .bg-color-history{
     background-color:#f4f4f4;
@@ -190,6 +191,8 @@ header{
     border-radius: 0px 0px 20px 20px;
 }
 
+
+.media-section,
 .contact-column,
 .results-section{
     display: block;
@@ -203,6 +206,8 @@ header{
     letter-spacing: 2px;
     border-radius: 20px;
 }
+
+
 
 /*-----------------------------------------Contact form */
 
