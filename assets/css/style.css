@@ -97,6 +97,12 @@ header{
     border-radius: 20px;
 }
 
+.section-column-history{
+    border-radius: 20px;
+    height:530px;
+    overflow: auto;
+}
+
 .history,
 .news-feature {
     display: block;
