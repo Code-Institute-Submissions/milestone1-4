@@ -13,11 +13,13 @@
 .ui-menu-color-contact {
     background-color: #141D35;
 }
+.bg-color-video-section,
 .bg-color-contact,
 .bg-color-news{
    background-color:  #CCC8BC;
 }
-.bg-color-video-section,
+
+.bg-color-gallery,
 .bg-color-results,
 .bg-color-history{
     background-color:#f4f4f4;
@@ -191,7 +193,7 @@ header{
     border-radius: 0px 0px 20px 20px;
 }
 
-
+.gallery-section,
 .media-section,
 .contact-column,
 .results-section{
@@ -207,6 +209,10 @@ header{
     border-radius: 20px;
 }
 
+.media-section h6 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
 
 
 /*-----------------------------------------Contact form */
