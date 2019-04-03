@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 /*-----------------------------------------Colours */
+body{
+    background-color: #F0F8FF;
+}
 .ui-menu-color-home {
     background-color: #9EC3ED;
 }
@@ -38,6 +41,7 @@ header{
     -moz-transition: all 1s ease-in-out;
     -o-transition: all 1s ease-in-out;
     -webkit-transition: all 1s ease-in-out;
+    border-radius: 50px;
 }
 
 .modal-text{
