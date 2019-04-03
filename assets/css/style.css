@@ -231,6 +231,12 @@ header{
     overflow: auto;
 }
 
+.gallery-section p {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-family: cursive;
+    font-weight: 200;
+}
 /*-----------------------------------------Contact form */
 
 #friends-text{
