@@ -16,7 +16,7 @@ buttons visible on all pages to help the user go from page to page.
 The 'Join our Society here!' modal is on all pages to entice potential members
 to sign up. 
 The form on the contact page is not fully functional in that it doesn't alert 
-anyone from the Webteam that a form has being filled nor do they fill a 
+anyone from the Webteam that a form has being filled nor does it fill a 
 database.
 All social icons are functional and direct the user to three different 
 pages. 
@@ -26,21 +26,22 @@ pages.
 This website is designed with the members of the Golf Society in mind. 
 Mobile first design was important as members could check upcoming outings
 and results on their mobiles as soon as the round was finished. 
-...Click on the directory 'user-design-experience' for all the Planes, 
+
+... Click on the directory 'user-design-experience' for all the Planes, 
 including User Stories, wireframes, mockups, diagrams that I created as part 
 of the design process.
 
 ## *Technologies Used*
 
-*HTML5
-*CSS3
-*Bootstrap
-*Bash
-*Ubuntu
-*GIT
-*GITHUB
-*Google Chrome developer tools
-*Cloud 9 IDE
-*Javascript and JQuery are imported for the join the society modal.
+* HTML5
+* CSS3
+* Bootstrap
+* Bash
+* Ubuntu
+* GIT
+* GITHUB
+* Google Chrome developer tools
+* Cloud 9 IDE
+* Javascript and JQuery are imported for the join the society modal.
 
 ## *Deployment*
