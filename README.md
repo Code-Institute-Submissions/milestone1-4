@@ -13,6 +13,7 @@ using a pop up modal and also a contact enquire form on a contact page.
 
 The website is fully responsive. It is a four page website with the navigation 
 buttons visible on all pages to help the user go from page to page. 
+Instead of using Media Queries I decided to use Bootstraps responsive grid system.
 The 'Join our Society here!' modal is on all pages to entice potential members
 to sign up. 
 The form on the contact page is not fully functional in that it doesn't alert 
@@ -27,7 +28,7 @@ This website is designed with the members of the Golf Society in mind.
 Mobile first design was important as members could check upcoming outings
 and results on their mobiles as soon as the round was finished. 
 
-... Click on the directory 'user-design-experience' for all the Planes, 
+Click on the directory 'user-design-experience' for all the Planes, 
 including User Stories, wireframes, mockups, diagrams that I created as part 
 of the design process.
 
