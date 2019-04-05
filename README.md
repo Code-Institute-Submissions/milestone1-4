@@ -79,7 +79,7 @@ form was tested locally and remotely.
     Golf course for allowing me to us it. 
     
 #### logo
-    I designed the Terrys Golf Society logo using <https://logomaker.thehoth.com/>
+    I designed the Terrys Golf Society logo using https://logomaker.thehoth.com/
     
 © Darren McGill 2019
 
