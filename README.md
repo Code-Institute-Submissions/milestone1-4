@@ -45,3 +45,14 @@ of the design process.
 * Javascript and JQuery are imported for the join the society modal.
 
 ## *Deployment*
+
+1. The Website was coded in Cloud 9 IDE. 
+2. A local GIT directory was used for version control. 
+3. It was then uploaded to GITHUB using Ubuntu / Bash script. 
+..* git add .
+..* git commit -m "Initial commit"
+..* git push
+..* input username and password
+4. Once in a GITHUB repositories it was made live using GITHUB Pages. 
+
+The website can be found at: https://darrenmcgill35.github.io/milestone1/
