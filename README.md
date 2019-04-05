@@ -74,12 +74,15 @@ form was tested locally and remotely.
     All Text and written informtion on the site is my own.
     
 #### Media
-    All pictures and videos on the site are my own apart from the Youtube 
-    video on the Golf.html page. Credit to Ciaran Lavery PGA from Concra Wood 
+    All pictures and videos on the site are my own apart from 
+    the Youtube video on the Golf.html page. 
+    Credit to Ciaran Lavery PGA from Concra Wood 
     Golf course for allowing me to us it. 
     
 #### logo
-    [I designed the logo using Free logo creater-The HOTH][https://logomaker.thehoth.com/]
+
+I designed the logo using
+[Free logo creater-The HOTH](https://logomaker.thehoth.com)
     
 © Darren McGill 2019
 
