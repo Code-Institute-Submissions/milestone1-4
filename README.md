@@ -61,3 +61,20 @@ The website can be found at: https://darrenmcgill35.github.io/milestone1/
 
 ## *Testing*
 
+Each page was tested locally and on GITHUB pages using Chrome developer tools, 
+testing its functionality as well as look and feel
+(in landscape and portrait mode) on Galaxy S5, S6, S8, iPhone 7, iPhone 7 Plus, 
+iPhone 8, iPhone 8 Plus, iPhone X, iPad, iPad Pro and responsive desktop. 
+All links were tested along with uploaded videos. The modal and contact
+form was tested locally and remotely.
+
+## *Credits*
+
+1. Content
+    All Text and written informtion on the site is my own
+1. Media
+    All pictures and videos on the site are my own apart from the Youtube 
+    video on the Golf.html page. Credit to Ciaran Lavery PGA from Concra Wood 
+    Golf course for allowing me to us it. 
+    
+
