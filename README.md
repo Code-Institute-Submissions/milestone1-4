@@ -70,11 +70,16 @@ form was tested locally and remotely.
 
 ## *Credits*
 
-1. Content
-    All Text and written informtion on the site is my own
-1. Media
+#### Content
+    All Text and written informtion on the site is my own.
+    
+#### Media
     All pictures and videos on the site are my own apart from the Youtube 
     video on the Golf.html page. Credit to Ciaran Lavery PGA from Concra Wood 
     Golf course for allowing me to us it. 
     
+#### logo
+    I designed the Terrys Golf Society logo using <https://logomaker.thehoth.com/>
+    
+© Darren McGill 2019
 
