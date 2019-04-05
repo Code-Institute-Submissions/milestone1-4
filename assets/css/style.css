@@ -147,18 +147,18 @@ header{
     
 }
 
-.list-group{
+.list-group {
     margin-bottom: 15px;
 }
 
-.list-group-item{
+.list-group-item {
     font-family: "Exo", sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
     font-size: 10px;
 }
 
-.event-section{
+.event-section {
   position: relative;
   width: 100%;
   padding-bottom: 56.25%; 
@@ -201,7 +201,6 @@ header{
     border-radius: 0px 0px 20px 20px;
 }
 
-.gallery-section,
 .media-section,
 .contact-section,
 .results-section{
