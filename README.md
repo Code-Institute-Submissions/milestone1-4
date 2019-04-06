@@ -13,7 +13,8 @@ using a pop up modal and also a contact enquire form on a contact page.
 
 The website is fully responsive. It is a four page website with the navigation 
 buttons visible on all pages to help the user go from page to page. 
-Instead of using Media Queries I decided to use Bootstraps responsive grid system.
+Instead of using Media Queries I decided to use Bootstraps
+responsive grid system.
 The 'Join our Society here!' modal is on all pages to entice potential members
 to sign up. 
 The form on the contact page is not fully functional in that it doesn't alert 
@@ -50,10 +51,14 @@ of the design process.
 1. The Website was coded in Cloud 9 IDE. 
 1. A local GIT directory was used for version control. 
 1. It was then uploaded to GITHUB using Ubuntu / Bash script. 
-    * git add .
-    * git commit -m "Initial commit"
-    * git push
-    * Input username and password
+    * git add . (Adds files to be committed)
+    * git commit -m "Initial commit" (for first commit and every other commit 
+      thereafter a comment about what was changed ie. 
+      "Updated footer in index.html")
+    * git push (This command is used to upload local repository content
+      to a remote repository.)
+    * Input username and password (Once this is done correctly all files will 
+       be available in the software delevopment platform GITHUB)
     
 1. Once in a GITHUB repositories it was made live using GITHUB Pages. 
 
@@ -71,18 +76,22 @@ form was tested locally and remotely.
 ## *Credits*
 
 #### Content
-    All Text and written informtion on the site is my own.
+All text informtion on the site is my own.
     
 #### Media
-    All pictures and videos on the site are my own apart from 
-    the Youtube video on the Golf.html page. 
-    Credit to Ciaran Lavery PGA from Concra Wood 
-    Golf course for allowing me to us it. 
+All pictures and videos on the site are my own apart from 
+the Youtube video on the Golf.html page. 
+Credit to [Ciaran Lavery PGA](https://www.facebook.com/pg/Ciar%C3%A1n-Lavery-Golf-398089067622974/about/) 
+from Concra Wood Golf course for allowing me to us it. 
     
 #### logo
 
 I designed the logo using
 [Free logo creater-The HOTH](https://logomaker.thehoth.com)
+
+#### Colours
+
+Colours were picked using the [Coolers website](https://coolors.co/) 
     
 © Darren McGill 2019
 
