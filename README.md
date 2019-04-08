@@ -58,7 +58,7 @@ of the design process.
     * git push (This command is used to upload local repository content
       to a remote repository.)
     * Input username and password (Once this is done correctly all files will 
-       be available in the software delevopment platform GITHUB)
+       be available in the software development platform GITHUB)
     
 1. Once in a GITHUB repositories it was made live using GITHUB Pages. 
 
