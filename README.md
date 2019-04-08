@@ -13,12 +13,12 @@ using a pop up modal and also a contact enquire form on a contact page.
 
 The website is fully responsive. It is a four page website with the navigation 
 buttons visible on all pages to help the user go from page to page. 
-Instead of using Media Queries I decided to use Bootstraps
-responsive grid system.
+I didn't need to use Media Queries as Bootstraps
+responsive grid system works nicely.
 The 'Join our Society here!' modal is on all pages to entice potential members
 to sign up. 
 The form on the contact page is not fully functional in that it doesn't alert 
-anyone from the Webteam that a form has being filled nor does it fill a 
+anyone from the Web team that a form has being filled nor does it fill a 
 database.
 All social icons are functional and direct the user to three different 
 pages. 
@@ -29,8 +29,8 @@ This website is designed with the members of the Golf Society in mind.
 Mobile first design was important as members could check upcoming outings
 and results on their mobiles as soon as the round was finished. 
 
-Click on the directory 'user-design-experience' for all the Planes, 
-including User Stories, wireframes, mockups, diagrams that I created as part 
+Click on the directory [user-design-experience](https://github.com/darrenmcgill35/milestone1/tree/master/assets/user-design-experience) for all the Planes, 
+including User Stories, wireframes, mock-ups, diagrams that I created as part 
 of the design process.
 
 ## *Technologies Used*
@@ -71,23 +71,23 @@ testing its functionality as well as look and feel
 (in landscape and portrait mode) on Galaxy S5, S6, S8, iPhone 7, iPhone 7 Plus, 
 iPhone 8, iPhone 8 Plus, iPhone X, iPad, iPad Pro and responsive desktop. 
 All links were tested along with uploaded videos. The modal and contact
-form was tested locally and remotely.
+forms were tested locally and remotely.
 
 ## *Credits*
 
 #### Content
-All text informtion on the site is my own.
+All text information on the site is my own.
     
 #### Media
 All pictures and videos on the site are my own apart from 
 the Youtube video on the Golf.html page. 
 Credit to [Ciaran Lavery PGA](https://www.facebook.com/pg/Ciar%C3%A1n-Lavery-Golf-398089067622974/about/) 
-from Concra Wood Golf course for allowing me to us it. 
+from Concra Wood Golf course for allowing me to use it. 
     
 #### logo
 
 I designed the logo using
-[Free logo creater-The HOTH](https://logomaker.thehoth.com)
+[Free logo creator-The HOTH](https://logomaker.thehoth.com)
 
 #### Colours
 
